@@ -1,0 +1,6 @@
+temp/
+venv/
+.terraform/
+.terraform*
+volumes/
+terraform.*
